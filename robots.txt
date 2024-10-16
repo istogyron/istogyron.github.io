@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istogyron.github.io/sitemap.html.gz
+Sitemap: https://istogyron.github.io/app/sitemap.html.gz
+Sitemap: https://istogyron.github.io/assets/sitemap.html.gz
+Sitemap: https://istogyron.github.io/css/sitemap.html.gz
+Sitemap: https://istogyron.github.io/includes/sitemap.html.gz
+Sitemap: https://istogyron.github.io/item/sitemap.html.gz
+Sitemap: https://istogyron.github.io/src/sitemap.html.gz
